@@ -1,0 +1,57 @@
+RED = "\033[31m"
+GREEN = "\033[32m"
+BLUE = "\033[34m"
+RESET = "\033[0m"
+
+
+
+
+
+
+print (f"""{GREEN}
+IIIII  BBBB    CCCC
+  I    B   B  C
+  I    B   B  C
+  I    BBBB   C
+  I    B   B  C
+  I    B   B  C
+IIIII  BBBB    CCCC
+ {RESET}""")
+
+
+
+print("I H C")
+
+RED = "\033[31m"
+GREEN = "\033[32m"
+BLUE = "\033[34m"
+RESET = "\033[0m"
+
+#Import your height and your partners height
+
+A = 6.9
+B = 5.6
+
+#lets say eyan and case have baby
+
+A_1 =(A + B)
+Height_Final= (A_1 / 2)
+
+print(f"{RED}Final Height{RESET}:")
+print (Height_Final) 
+
+print(f"{GREEN}I W C{RESET}")
+#Import your weight and partners weight
+d = 198
+x = 140
+
+X_1 = (x + d)
+Weight_Final = (X_1 / 2)
+
+print (f"{RED}Final Weight ={RESET}")
+print(Weight_Final)
+{RESET}
+
+
+
+
